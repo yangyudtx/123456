@@ -1,0 +1,3 @@
+#SafeCap #RailSafety #Railway #Signalling
+SafeCap 是用于联锁/信号系统的开源形式化验证工具，可在投运前发现潜在逻辑缺陷，助力事故预防与整改验证。工程友好、可规模化应用，适合纳入联锁方案评审与回归验证流程。
+仓库：https://github.com/ennessione/safecap
