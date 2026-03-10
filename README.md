@@ -6,3 +6,11 @@ SafeCap 是一套面向铁路联锁/信号系统（尤其 SSI 等）的开源形
 - 开源仓库：ennessione/safecap — https://github.com/ennessione/safecap
 
 整理：@yangyudtx
+
+---
+
+## 食堂就餐仿真系统设计思路
+
+按**思路一（离散事件仿真/排队论）**与**思路二（基于 Agent 的多主体仿真）**提供若干制作食堂就餐仿真系统的思路。
+
+- 详细文档：[docs/canteen-simulation.md](docs/canteen-simulation.md)
