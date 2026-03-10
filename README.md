@@ -11,4 +11,5 @@ SafeCap 是一套面向铁路联锁/信号系统（尤其 SSI 等）的开源形
 
 ## 本地 Git 账号授权
 
-本地已安装 Git，如何授权账号以连接 GitHub？请参阅：[docs/git-local-auth.md](docs/git-local-auth.md)
+- 连接 **GitHub**：[docs/git-local-auth.md](docs/git-local-auth.md)
+- 连接 **Gitee（码云）**：[docs/gitee-local-auth.md](docs/gitee-local-auth.md)
